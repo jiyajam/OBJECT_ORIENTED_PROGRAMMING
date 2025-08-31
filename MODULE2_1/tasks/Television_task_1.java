@@ -3,11 +3,7 @@ public class Television_task_1 {
     private int channel = 1;
 
     public void clickOnorOff() {
-        if (!isOn) {
-            isOn = true;
-        } else {
-            isOn = false;
-        }
+        isOn = !isOn;
     }
 
     public int getChannel() {
