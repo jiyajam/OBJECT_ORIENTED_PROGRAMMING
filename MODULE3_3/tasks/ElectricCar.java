@@ -1,5 +1,3 @@
-// ElectricCar.java
-// ElectricCar.java (Updated)
 public class ElectricCar extends AbstractVehicle implements ElectricVehicle {
     public ElectricCar() {
         super("Electric Car", "Electricity", "White");

@@ -1,4 +1,3 @@
-// AbstractVehicle.java
 public abstract class AbstractVehicle implements Vehicle {
     protected String type;
     protected String fuel;

@@ -15,7 +15,7 @@
 //        return "Bus Information:\nType: Bus\nFuel: Diesel\nCapacity: 40 passengers";
 //    }
 //}
-// Bus.java (Updated)
+
 public class Bus extends AbstractVehicle {
     public Bus() {
         super("Bus", "Diesel", "Blue");

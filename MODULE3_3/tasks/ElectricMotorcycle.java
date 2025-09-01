@@ -1,4 +1,3 @@
-// ElectricMotorcycle.java
 public class ElectricMotorcycle extends AbstractVehicle implements ElectricVehicle {
     public ElectricMotorcycle() {
         super("Electric Motorcycle", "Electricity", "Green");

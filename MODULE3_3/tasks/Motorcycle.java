@@ -15,7 +15,7 @@
 //        return "Motorcycle Information:\nType: Motorcycle\nFuel: Gasoline\nColor: Black";
 //    }
 //}
-// Motorcycle.java (Updated)
+
 public class Motorcycle extends AbstractVehicle {
     public Motorcycle() {
         super("Motorcycle", "Gasoline", "Black");
