@@ -32,12 +32,8 @@ public class AltNumberPrinting_task1 extends Thread {
         new AltNumberPrinting_task1("Odd", 19).start();
         new AltNumberPrinting_task1("Even", 19).start();
 
-        // Wait a bit then print completion message
-        try {
-            Thread.sleep(1000);
-        } catch (InterruptedException e) {
-            // ignore
-        }
+        // print completion message
+
         System.out.println("Printing complete.");
     }
 }
