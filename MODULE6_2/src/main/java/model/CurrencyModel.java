@@ -8,10 +8,10 @@ public class CurrencyModel {
 
     public CurrencyModel() {
         currencies = new ArrayList<>();
-        currencies.add(new Currency("EUR", 1.0));
-        currencies.add(new Currency("JPY", 174.24));
-        currencies.add(new Currency("GBP", 0.87));
-        currencies.add(new Currency("KWD", 0.36));
+        currencies.add(new Currency("EUR(Euro)", 1.0));
+        currencies.add(new Currency("JPY(Japanese yen)", 174.24));
+        currencies.add(new Currency("GBP(British pound)", 0.87));
+        currencies.add(new Currency("KWD(Kuwaiti dinar)", 0.36));
     }
 
     public List<Currency> getCurrencies() {

@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="MODULE6_2" />
         <module name="MODULE6_1" />
+        <module name="MODULE6_3" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
