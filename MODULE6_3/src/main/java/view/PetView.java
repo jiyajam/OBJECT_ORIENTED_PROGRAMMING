@@ -24,7 +24,7 @@ public class PetView extends Application {
         canvas = new Canvas(400, 300);
         gc = canvas.getGraphicsContext2D();
 
-        // Load your cat image (put cat.png in resources folder)
+
         catImage = new Image("sheep.png");
         backgroundImage=new Image("background.png");
 
@@ -62,11 +62,10 @@ public class PetView extends Application {
         gc.drawImage(backgroundImage,0,0,400,300);
 
 
-        // Draw cat image
+
         double x = controller.getPet().getX();
         double y = controller.getPet().getY();
 
-        // Draw cat image (30x30 pixels)
         gc.drawImage(catImage, x - 15, y - 15, 60, 60);
     }
 
