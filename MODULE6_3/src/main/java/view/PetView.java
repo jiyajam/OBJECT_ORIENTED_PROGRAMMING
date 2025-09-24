@@ -39,7 +39,7 @@ public class PetView extends Application {
         StackPane root = new StackPane(canvas);
         Scene scene = new Scene(root, 400, 300);
 
-        stage.setTitle("My lil Sheep");
+        stage.setTitle("My Virtual Pet");
         stage.setScene(scene);
         stage.show();
 
