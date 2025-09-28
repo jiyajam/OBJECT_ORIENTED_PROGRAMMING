@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/MODULE7_1/src/main/java/currency_converter.sql" value="b198dca8-55d7-4fd4-aae6-065117a466c7" />
+    <file url="file://$PROJECT_DIR$/MODULE7_1/src/main/java/queries.sql" value="b198dca8-55d7-4fd4-aae6-065117a466c7" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b198dca8-55d7-4fd4-aae6-065117a466c7/console.sql" value="b198dca8-55d7-4fd4-aae6-065117a466c7" />
+  </component>
+</project>
