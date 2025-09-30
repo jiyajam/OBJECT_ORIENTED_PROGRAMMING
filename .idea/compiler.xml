@@ -10,6 +10,7 @@
         <module name="MODULE7_1" />
         <module name="MODULE6_1" />
         <module name="MODULE6_3" />
+        <module name="MODULE7_2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
